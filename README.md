@@ -1,4 +1,4 @@
-# Database-Schema-designs-neuro-temple
+# Database-Schema-designs-neuro
 This repository contains a detailed database schema design for a neurology clinic. It includes tables for patients, doctors, neurological assessments, appointments, prescriptions, and billing.
 
 # ETL Pipeline for Neurology Clinic Data
